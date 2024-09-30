@@ -10,6 +10,8 @@ module.exports = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+          glassBg: 'rgba(255, 255, 255, 0.3)',
+          glassBorder: 'rgba(255, 255, 255, 0.18)',
       },
     },
   },
